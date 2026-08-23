@@ -21,17 +21,21 @@ A full-stack platform for recording project scope, identifying requirement chang
 
 [Live Application](https://scopilot-freelancer-scope-managemen.vercel.app/) · [Repository](https://github.com/fasrathmk/scopilot-freelancer-scope-management)
 
-### Student Management CRUD REST API
+### [Student Management CRUD REST API](https://github.com/fasrathmk/spring-boot-student-crud-api)
 
 A Dockerized Spring Boot REST API for creating, retrieving, updating and deleting student records.
 
-**Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL, Docker and Postman
+**Stack:** Java, Spring Boot, Spring Data JPA, PostgreSQL, Maven, Docker and Postman
 
-### Freelance Lead Qualification and Email Automation
+[View Repository](https://github.com/fasrathmk/spring-boot-student-crud-api)
+
+### [Freelance Lead Qualification and Email Automation](https://github.com/fasrathmk/n8n-freelance-lead-qualification)
 
 An n8n workflow that evaluates freelance leads using budget and deadline conditions and sends conditional Gmail responses.
 
 **Stack:** n8n, Google Sheets, Gmail, JSON and Conditional Logic
+
+[View Repository](https://github.com/fasrathmk/n8n-freelance-lead-qualification)
 
 ## Technical Skills
 
